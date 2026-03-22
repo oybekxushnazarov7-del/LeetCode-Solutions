@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
