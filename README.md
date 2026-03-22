@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
