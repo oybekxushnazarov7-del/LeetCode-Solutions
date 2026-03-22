@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -33,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3668-restore-finishing-order](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
