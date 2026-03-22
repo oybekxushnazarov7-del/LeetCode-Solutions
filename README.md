@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Backtracking
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
