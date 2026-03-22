@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2413-smallest-even-multiple](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
