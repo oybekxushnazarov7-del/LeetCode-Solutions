@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
