@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
