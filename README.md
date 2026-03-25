@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3516-find-closest-person) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
