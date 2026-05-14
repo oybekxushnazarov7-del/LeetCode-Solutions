@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
