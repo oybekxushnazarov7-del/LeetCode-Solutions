@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
