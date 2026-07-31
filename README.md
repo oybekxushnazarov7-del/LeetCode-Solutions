@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1486-xor-operation-in-an-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
