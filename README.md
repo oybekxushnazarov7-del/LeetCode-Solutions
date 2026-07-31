@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
