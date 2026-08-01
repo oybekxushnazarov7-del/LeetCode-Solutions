@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
+| [1890-the-latest-login-in-2020](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Dynamic Programming
 |  |
