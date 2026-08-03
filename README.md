@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
