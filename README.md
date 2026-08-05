@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0178-rank-scores) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0627-swap-sex-of-employees](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
