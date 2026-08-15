@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
