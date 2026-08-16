@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1603-design-parking-system) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -236,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/oybekxushnazarov7-del/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
